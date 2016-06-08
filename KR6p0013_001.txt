@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:53.926644
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:44
 #+TITLE: 觀無量壽佛經約論
 #+PROPERTY: CBETA_ID X22n0414
 #+PROPERTY: ID KR6p0013
